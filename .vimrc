@@ -1,6 +1,6 @@
 " General options
 syntax on
-set colorcolumn=100
+set colorcolumn=80
 set nocompatible
 set nowrap
 set number
